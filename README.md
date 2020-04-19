@@ -1,2 +1,5 @@
-# university-assignment-jp
-Developed a Java desktop application to assist APU in managing its hostel.
+# Hostel Management System
+
+**AAPP004-4-2-JP Assignment**
+
+Java Programming
