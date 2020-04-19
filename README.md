@@ -1,4 +1,4 @@
-# Hostel Management System
+# Condominium Management System
 
 **AAPP004-4-2-JP Assignment**
 
